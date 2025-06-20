@@ -44,7 +44,6 @@ Copy
 Edit
 python app.py
 🧪 Example Use
-Upload a .mp4 video using the Gradio interface
 
 The model will output the predicted action or category
 
@@ -61,12 +60,9 @@ Python 3.8+
 
 torch, transformers, gradio, opencv-python
 
-📊 Demo Screenshot
-Add a screenshot or GIF here showing the Gradio interface with a video being classified.
-
 ✍️ Author
 Muhammad Amin
-LinkedIn | Email
+Email: muhammadamin0334@gmail.com
 
 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
